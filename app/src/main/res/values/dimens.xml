@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    MARGINS
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+
+    TEXTS
+    <dimen name="text_9sp">9sp</dimen>
+    <dimen name="text_12sp">12sp</dimen>
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_25sp">25sp</dimen>
+
+    RADIUS
+    <dimen name="corner_radius_8dp">8dp</dimen>
+
+    SIZES
+    <dimen name="image_28dp">28dp</dimen>
+    <dimen name="image_75dp">75dp</dimen>
+    <dimen name="image_125dp">125dp</dimen>
+    <dimen name="image_200dp">200dp</dimen>
+    <dimen name="image_50dp">50dp</dimen>
+
+</resources>

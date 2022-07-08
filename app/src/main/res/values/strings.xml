@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">klikin</string>
+    <string name="appbar_title">Listado de comercios</string>
+    <string name="commerce">Comercios</string>
+    <string name="nearby_distance">A menos de 1 km</string>
+    <string name="about_commerce">Sobre el comercio</string>
+    <string name="take_me_here">Llévame aquí</string>
+    <string name="location">Localización</string>
+    <string name="waiting">AÑADIENDO 10 ELEMENTOS A LA LISTA...</string>
+    <string name="items_added">ELEMENTOS AÑADIDOS</string>
+</resources>
